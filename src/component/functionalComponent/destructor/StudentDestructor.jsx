@@ -1,3 +1,5 @@
+
+// eslint-disable-next-line react/prop-types
 const StudentDestructor = ({studentName, age, email}) => {
     return (
         <div>
